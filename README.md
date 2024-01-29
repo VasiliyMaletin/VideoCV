@@ -1,3 +1,3 @@
 VideoCV
 
-second repository
+Проект по отслеживанию объектов на видео
